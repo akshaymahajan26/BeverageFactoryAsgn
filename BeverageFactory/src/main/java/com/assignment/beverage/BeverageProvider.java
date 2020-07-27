@@ -106,7 +106,7 @@ public class BeverageProvider {
 				beverage = new Soda(beverage);
 				break;
 			default:
-				System.out.println(switchCheck + " is an Invalid condiments made");
+				System.out.println(switchCheck + " is an   Invalid condiments made");
 				break;
 			}
 		}
